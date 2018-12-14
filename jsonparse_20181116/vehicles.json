@@ -1,0 +1,235 @@
+{
+	"VEHICLES": {
+		"LAST_INVENTORY_NUMBER": "11",
+		"VEHICLE": [
+			{
+				"INVENTORY_NUMBER": "1",
+				"MAKE": "Dodge",
+				"MODEL": "Durango",
+				"YEAR": "1998",
+				"PICTURE": "DodgeDurango.jpg",
+				"STYLE": "Sport Utility",
+				"DOORS": "4",
+				"PRICE": "18000",
+				"MILEAGE": "32000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Power_Window": "Yes",
+					"Stereo": "Radio/Cassette/CD",
+					"Air_Conditioning": "Yes",
+					"Automatic": "Yes",
+					"Four_Wheel_Drive": "Full/Partial",
+					"Note": "Very clean"
+				},
+				"OWNER": {
+					"NAME": "Douglas Briggs ",
+					"EMAIL": "DBriggs@aDomain.Com",
+					"PHONE": "781 781 7811"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "2",
+				"MAKE": "Honda",
+				"MODEL": "Civic",
+				"YEAR": "1997",
+				"PICTURE": "HondaCivic.jpg",
+				"PRICE_YEN": "20000000",
+				"STYLE": "Sedan",
+				"DOORS": "4",
+				"PRICE": "8000",
+				"MILEAGE": "56000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Power_Window": "Yes",
+					"Stereo": "Radio/Cassette",
+					"Automatic": "Yes",
+					"Note": "Like New"
+				},
+				"OWNER": {
+					"NAME": "Israel Hodgson ",
+					"EMAIL": "IHodgson@aDomain.Com",
+					"PHONE": "781 781 782"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "3",
+				"MAKE": "Dodge",
+				"MODEL": "Neon",
+				"YEAR": "1996",
+				"PICTURE": "DodgeNeon.jpg",
+				"STYLE": "Sedan",
+				"DOORS": "4",
+				"PRICE": "7000",
+				"MILEAGE": "55000",
+				"OPTIONS": {
+					"Stereo": "Radio/Cassette",
+					"Automatic": "Yes",
+					"Note": "Need minor body works"
+				},
+				"OWNER": {
+					"NAME": "Arthur Shin ",
+					"EMAIL": "IHodgson@aDomain.Com",
+					"PHONE": "781 781 782"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "4",
+				"MAKE": "Ferrari",
+				"MODEL": "F355",
+				"YEAR": "1995",
+				"PICTURE": "FerrariF355.jpg",
+				"STYLE": "Sport",
+				"DOORS": "2",
+				"PRICE": "45000",
+				"MILEAGE": "63000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Power_Window": "Yes",
+					"Stereo": "Radio/Cassette/CD",
+					"Air_Conditioning": "Yes",
+					"Note": "Luxury car"
+				},
+				"OWNER": {
+					"NAME": "Jungchul Frye",
+					"EMAIL": "JFrye@aDomain.Com",
+					"PHONE": "781 781 782"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "5",
+				"MAKE": "BMW",
+				"MODEL": "3 Series",
+				"YEAR": "1998",
+				"PICTURE": "BMWSeries3.jpg",
+				"STYLE": "Sedan",
+				"DOORS": "4",
+				"PRICE": "40000",
+				"MILEAGE": "12000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Power_Window": "Yes",
+					"Interiors": "Leather",
+					"Stereo": "Radio/Cassette/CD",
+					"Air_Conditioning": "Yes",
+					"Note": "Pre-owned"
+				},
+				"OWNER": {
+					"NAME": "Bill Pease",
+					"EMAIL": "BPease@aDomain.Com",
+					"PHONE": "781 781 782"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "6",
+				"MAKE": "BMW",
+				"MODEL": "Z3",
+				"YEAR": "1998",
+				"PICTURE": "BMWZ3.jpg",
+				"STYLE": "Convertible",
+				"DOORS": "2",
+				"PRICE": "33000",
+				"MILEAGE": "24000",
+				"OPTIONS": {
+					"Cover_Material": "Plastic",
+					"Power_Locks": "Yes",
+					"Power_Window": "Yes",
+					"Alarm": "Yes",
+					"Interiors": "Fabric",
+					"Stereo": "Radio/Cassette/CD",
+					"Air_Conditioning": "Yes",
+					"Note": "Pre-owned, very clean"
+				},
+				"OWNER": {
+					"NAME": "Scott Tufo",
+					"EMAIL": "STufo@aDomain.Com",
+					"PHONE": "781 781 783"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "7",
+				"MAKE": "Dodge",
+				"MODEL": "RAM",
+				"YEAR": "1997",
+				"PICTURE": "DodgeRAM1500.jpg",
+				"STYLE": "Truck",
+				"DOORS": "2",
+				"PRICE": "22000",
+				"MILEAGE": "45000",
+				"OPTIONS": {
+					"Stereo": "Radio",
+					"Max_Load": "1500",
+					"Note": "Heavy duty Vehicle"
+				},
+				"OWNER": {
+					"NAME": "Dealer"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "8",
+				"MAKE": "Honda",
+				"MODEL": "Accord",
+				"YEAR": "1995",
+				"PICTURE": "HondaAccord.jpg",
+				"PRICE_YEN": "25000000",
+				"STYLE": "Sedan",
+				"DOORS": "4",
+				"PRICE": "8500",
+				"MILEAGE": "145000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Stereo": "Radio/Cassette",
+					"Automatic": "Yes"
+				},
+				"OWNER": {
+					"NAME": "Bob Johnson",
+					"PHONE": "781 781 783"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "9",
+				"MAKE": "Dodge",
+				"MODEL": "RAM 2500",
+				"YEAR": "1996",
+				"PICTURE": "DodgeRAM2500.jpg",
+				"STYLE": "Truck",
+				"DOORS": "2",
+				"PRICE": "25000",
+				"MILEAGE": "23000",
+				"OPTIONS": {
+					"Stereo": "Radio/Cassette",
+					"Max_Load": "2500",
+					"Note": "Heavy duty truck"
+				},
+				"OWNER": {
+					"NAME": "Pia Kinnear",
+					"EMAIL": "PKinnearo@aDomain.Com",
+					"PHONE": "781 781 784"
+				}
+			},
+			{
+				"INVENTORY_NUMBER": "10",
+				"MAKE": "Ford",
+				"MODEL": "Explorer",
+				"YEAR": "1996",
+				"PICTURE": "FordExplorer.jpg",
+				"STYLE": "Sport Utility",
+				"DOORS": "4",
+				"PRICE": "18000",
+				"MILEAGE": "105000",
+				"OPTIONS": {
+					"Power_Locks": "Yes",
+					"Stereo": "Radio/Cassette",
+					"Automatic": "Yes",
+					"Interiors": "Fabric",
+					"Air_Conditioning": "Yes",
+					"Note": "Pre-owned, very clean"
+				},
+				"OWNER": {
+					"NAME": "Shawn Denoncour",
+					"EMAIL": "SDenoncour@aDomain.Com",
+					"PHONE": "781 781 785"
+				}
+			}
+		]
+	}
+}
