@@ -1,0 +1,12 @@
+<!--  회원번호, 이름, 전화번호 항목을 가지는 회원정보  -->
+<members>
+<member mid="M01">
+<name_>HONG</name_>
+<phone>010-1234-1234</phone>
+ <!--  필요시 항목 추가 가능  -->
+</member>
+<member mid="M02">
+<name_>PARK</name_>
+<phone>010-4321-4321</phone>
+</member>
+</members>
