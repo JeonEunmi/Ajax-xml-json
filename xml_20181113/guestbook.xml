@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 글번호, 글쓴이, 글내용, 작성일, ... 등의 방명록 정보 -->
+<guestbooks>
+
+	<guestbook gid = "G001">
+		<name>JEON</name>
+		<pw>1234</pw>
+		<content><![CDATA[테스트중]]></content>
+		<regDate>2018-11-13</regDate>
+		<clientIP>211.63.89.82</clientIP>
+		<blind>0</blind>
+	</guestbook>
+</guestbooks>

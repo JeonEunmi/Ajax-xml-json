@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 회원정보, 이름, 전화번호 항목을 가지는 회원정보 -->
+<members>
+	<member mid="M01">
+		<name>HONG</name>
+		<phone>010-1234-1234</phone>
+	</member>
+	<member mid="M02">
+		<name>PARK</name>
+		<phone>010-1111-1111</phone>
+	</member>
+</members>

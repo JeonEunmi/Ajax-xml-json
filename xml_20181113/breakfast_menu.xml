@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+주의) 첫 문장은 선언문부터 작성한다.
+주의) 저장시 확장자는 .xml 이다.
+주의) 루트 엘리먼트 작성 필수.
+
+XML 특성
+1. XML stands for eXtensible Markup Language.
+- 확장 가능한 마크업 언어. 엘리먼트명이 미리 정해진 것이 없다.
+2. XML was designed to store and transport data.
+- 자료 표현 언어. 예를 들어, 이름, 전화번호로 구성된 자료라고 선언 가능. 대표적으로 Ajax 응답 자료 표현시 많이 사용.
+3. XML was designed to be self-descriptive.
+- 사람과 기계가 동시에 읽을 수 있는 구조적 자료 표현
+
+ -->
+ 
+ <!-- XML로 작성한 자료 표현 예 -->
+<breakfast_menu>
+	<price id = "F001">
+		<name>Belgian Waffles</name>
+		<price>$5.95</price>
+		<description>
+			Two of our famous Belgian Waffles with plenty of real maple syrup
+		</description>
+		<calories>650</calories>
+	</price>
+</breakfast_menu>
+

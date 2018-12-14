@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+This XML file does not appear to have any style information associated
+with it. The document tree is shown below.
+<resume>
+	<person id="P001">
+		<name>홍자바</name>
+		<supporting_field>web-programmer</supporting_field>
+		<age>26</age>
+		<phone>010-7777-7777</phone>
+		<address>청담동</address>
+		<school>한양대</school>
+		<career period="2017.03">쌍용 교육센터 수료</career>
+		<project_experience>
+			<project>
+				<project_name>렌트카시스템</project_name>
+				<project_period>2016.09~2016.10</project_period>
+				<project_content>Java콘솔화면을 이용해 렌터카를 대여하는 시스템</project_content>
+				<role />
+				<language>Java</language>
+				<IDE_Tools>Eclipse</IDE_Tools>
+				<main_work>DB서버의 분석과 설계</main_work>
+			</project>
+			<project>
+				<project_name>성적관리시스템(console)</project_name>
+				<project_period>2016.10~2016.11</project_period>
+				<project_content>Java 콘솔 기반 교육기관의 학습정보와 회원정보관리 및 성적 운용 시스템
+				</project_content>
+				<role />
+				<language>Java</language>
+				<IDE_Tools>Eclipse</IDE_Tools>
+				<Database>Oracle</Database>
+				<main_work>DB서버의 분석과 설계</main_work>
+			</project>
+			<project>
+				<project_name>성적관리시스템(web)</project_name>
+				<project_period>2016.11~2016.12</project_period>
+				<project_content>Web 기반 교육기관의 학습정보와 회원정보관리 및 성적 운용 시스템
+				</project_content>
+				<role />
+				<language>JSP,Servlet,jQuery,HTML,CSS,JavaScript,JSTL,EL</language>
+				<IDE_Tools>Eclipse</IDE_Tools>
+				<Database>Oracle</Database>
+				<main_work>오라클 DBA및 JSP적용</main_work>
+			</project>
+		</project_experience>
+		<skill>
+			<languages>
+				<language>
+					<종류>Java</종류>
+					<버전>8.0</버전>
+					<기간>260시간</기간>
+					<세부항목>객체지향프로그래밍</세부항목>
+				</language>
+				<language>
+					<종류>Servlet</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>JSP</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>jQuery</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>HTML</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>CSS</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>JavaScript</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>JSTL</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+				<language>
+					<종류>EL</종류>
+					<버전>8.0</버전>
+					<기간>100시간</기간>
+					<세부항목>dkdkdkdkd,dkdkd,dkd,d,d</세부항목>
+				</language>
+			</languages>
+			<IDE_Tools>Eclipse</IDE_Tools>
+			<web_server>Apache Tomcat</web_server>
+			<Database>Oracle</Database>
+		</skill>
+		<license_list>
+			<license>
+				<license_name>IOT지식능력검정</license_name>
+				<date_acquisition>2016.6.20</date_acquisition>
+				<publishing_office>한국사물인터넷협회</publishing_office>
+			</license>
+			<license>
+				<license_name>정보처리기사</license_name>
+				<date_acquisition>2016.11.15</date_acquisition>
+				<publishing_office>한국산업인력공단</publishing_office>
+			</license>
+		</license_list>
+	</person>
+</resume>
