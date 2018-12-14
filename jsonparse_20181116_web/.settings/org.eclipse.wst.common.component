@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="jsonparse_20181116_web">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="jsonparse_20181116_web"/>
+        <property name="java-output-path" value="/jsonparse_20181116_web/build/classes"/>
+    </wb-module>
+</project-modules>
