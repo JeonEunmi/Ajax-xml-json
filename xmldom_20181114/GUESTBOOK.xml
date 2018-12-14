@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 글번호, 글쓴이, 글내용, 
+	작성일, ... 등의 방명록 정보 -->
+<guestbooks>
+	<guestbook gid="G001">
+		<name_>관리자</name_>
+		<pw>1234</pw>
+		<content><![CDATA[ Java & Python 과정 진행중입니다. ]]></content>
+		<regDate>2018-11-13</regDate>
+		<clientIP>211.63.89.68</clientIP>
+		<blind>0</blind>
+	</guestbook>
+	<guestbook gid="G002">
+		<name_>홍길동</name_>
+		<pw>1234</pw>
+		<content><![CDATA[ 방명록 테스트 ]]></content>
+		<regDate>2018-11-13</regDate>
+		<clientIP>211.63.89.70</clientIP>
+		<blind>0</blind>
+	</guestbook>
+	<guestbook gid="G003">
+		<name_>전은미</name_>
+		<pw>1111</pw>
+		<content>test합니다</content>
+		<regDate>2018-11-14</regDate>
+		<clientIP>211.63.89.82</clientIP>
+		<blind>1</blind>
+	</guestbook>
+</guestbooks>
